@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "utilities.h": "c",
+        "serial.h": "c",
+        "usart.h": "c"
+    }
+}
